@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=TicTacToe()
+comment2.params=
+comment2.target=TicTacToe\ copy()
+comment3.params=
+comment3.target=void\ nextPlayer()
+comment4.params=row\ col
+comment4.target=boolean\ addPiece(int,\ int)
+comment5.params=
+comment5.target=boolean\ hasEmptySpace()
+comment6.params=
+comment6.target=boolean\ isGameOver()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
